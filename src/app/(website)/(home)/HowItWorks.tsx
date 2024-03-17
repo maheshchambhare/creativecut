@@ -26,10 +26,10 @@ function HowItWorks() {
           return (
             <div key={ind}>
               <CardContainer className="w-full h-full inter-var cursor-pointer ">
-                <CardBody className="bg-gray-50  min-h-[200px] h-full  group/card  dark:hover:shadow-2xl dark:hover:shadow-emerald-500/[0.1] dark:bg-black dark:border-white/[0.2] border-black/[0.1] w-auto sm:w-[30rem]  rounded-xl p-6 border  ">
+                <CardBody className="min-h-[200px] h-full  group/card bg-black  dark:hover:shadow-2xl dark:hover:shadow-emerald-500/[0.1] dark:bg-black dark:border-white/[0.2] border-black/[0.1] w-auto sm:w-[30rem]  rounded-xl p-6 border  ">
                   <CardItem
                     translateZ="20"
-                    className="text-xl font-bold text-neutral-600 dark:text-white"
+                    className="text-xl font-bold text-neutral-600 text-white dark:text-white"
                   >
                     <h3 className="mb-2 xsm:text-base md:text-lg lg:text-xl text-textprimary font-semibold font-poppins">
                       {fetaure.name}

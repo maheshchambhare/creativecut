@@ -12,7 +12,7 @@ function Navbar() {
           CreativeCut
         </h1>
       </div>
-      <div className="flex xsm:mt-2 md:mt-0 xsm:justify-center xsm:w-full md:w-[30%]  h-full md:justify-end">
+      <div className="flex xsm:mt-2 md:mt-0 xsm:justify-center xsm:w-full md:w-[30%]  text-white h-full md:justify-end">
         <Link href={links.instagram} className="mr-4 cursor-pointer">
           <Instagram />
         </Link>

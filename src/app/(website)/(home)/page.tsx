@@ -39,8 +39,8 @@ export default function Home() {
         {/* How it works section */}
 
         <ScreenWrapper>
-          <p className="text-center my-2">@2024 CreativeCut</p>
-          <div className="flex  w-full justify-center mb-6">
+          <p className="text-center text-white my-2">@2024 CreativeCut</p>
+          <div className="flex text-white w-full justify-center mb-6">
             <Link href={links.instagram} className="mr-4 cursor-pointer">
               <Instagram />
             </Link>
