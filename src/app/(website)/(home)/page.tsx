@@ -4,9 +4,16 @@ import HowItWorks from "./HowItWorks";
 import Navbar from "@/app/components/Layouts/Navbar";
 import { Metadata } from "next";
 import Link from "next/link";
-import { Dice1, Linkedin, Twitter } from "lucide-react";
+import {
+  Dice1,
+  Linkedin,
+  Twitter,
+  Instagram,
+  Mail,
+  Youtube,
+} from "lucide-react";
 import homeData from "@/utils/data/homepage.json";
-
+import links from "@/utils/data/links.json";
 export default function Home() {
   return (
     <main className="flex flex-col w-[100vw] min-h-[100vh] overflow-hidden">
@@ -34,17 +41,23 @@ export default function Home() {
         <ScreenWrapper>
           <p className="text-center my-2">@2024 CreativeCut</p>
           <div className="flex  w-full justify-center mb-6">
-            <Link
-              href="https://twitter.com/maheshchambhare"
-              className="mr-4 cursor-pointer"
-            >
+            <Link href={links.instagram} className="mr-4 cursor-pointer">
+              <Instagram />
+            </Link>
+            <Link href={links.twitter} className="mr-4 cursor-pointer">
               <Twitter />
             </Link>
-            <Link
-              href="https://www.linkedin.com/in/maheshchambhare/"
-              className=" cursor-pointer"
-            >
+            <Link href={links.linkedin} className="mr-4 cursor-pointer">
               <Linkedin className="cursor-pointer" />
+            </Link>
+            <Link
+              href={"mailto:" + links.gmail}
+              className="mr-4 cursor-pointer"
+            >
+              <Mail className="cursor-pointer" />
+            </Link>
+            <Link href={links.youtube} className=" cursor-pointer">
+              <Youtube className="cursor-pointer" />
             </Link>
           </div>
         </ScreenWrapper>
@@ -54,9 +67,9 @@ export default function Home() {
 }
 
 export const metadata: Metadata = {
-  title: `Appointify - ${homeData.title}`,
+  title: `CreativeCut - ${homeData.title}`,
   description: homeData.description,
   icons: {
-    icon: "/reading.webp",
+    icon: "/Creativecutlogo.webp",
   },
 };

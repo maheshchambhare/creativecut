@@ -1,7 +1,8 @@
 "use client";
 import React from "react";
-import { Twitter, Linkedin } from "lucide-react";
+import { Twitter, Linkedin, Instagram, Mail, Youtube } from "lucide-react";
 import Link from "next/link";
+import links from "@/utils/data/links.json";
 
 function Navbar() {
   return (
@@ -11,18 +12,21 @@ function Navbar() {
           CreativeCut
         </h1>
       </div>
-      <div className="flex xsm:justify-center xsm:w-full md:w-[30%]  h-full md:justify-end">
-        <Link
-          href="https://twitter.com/maheshchambhare"
-          className="mr-4 cursor-pointer"
-        >
+      <div className="flex xsm:mt-2 md:mt-0 xsm:justify-center xsm:w-full md:w-[30%]  h-full md:justify-end">
+        <Link href={links.instagram} className="mr-4 cursor-pointer">
+          <Instagram />
+        </Link>
+        <Link href={links.twitter} className="mr-4 cursor-pointer">
           <Twitter />
         </Link>
-        <Link
-          href="https://www.linkedin.com/in/maheshchambhare/"
-          className=" cursor-pointer"
-        >
+        <Link href={links.linkedin} className="mr-4 cursor-pointer">
           <Linkedin className="cursor-pointer" />
+        </Link>
+        <Link href={"mailto:" + links.gmail} className="mr-4 cursor-pointer">
+          <Mail className="cursor-pointer" />
+        </Link>
+        <Link href={links.youtube} className=" cursor-pointer">
+          <Youtube className="cursor-pointer" />
         </Link>
       </div>
     </div>

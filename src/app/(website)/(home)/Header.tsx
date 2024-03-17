@@ -7,6 +7,7 @@ import { Spotlight } from "@/app/components/ui/Spotlight";
 import homeData from "@/utils/data/homepage.json";
 import { ChevronsDown } from "lucide-react";
 import { useState } from "react";
+import links from "@/utils/data/links.json";
 
 const Header = () => {
   const [signupModal, setSignupModal] = useState(false);
@@ -50,17 +51,10 @@ const Header = () => {
         <div className="relative w-full xsm:flex-col lg:flex-row   flex justify-center items-center mt-4 mx-auto mMax:ml-0 dark:text-white">
           <Button
             onClick={async () => {
-              setSignupModal(true);
+              window.open("mailto:" + links.gmail, "_black");
             }}
             title="Contact Me"
           />
-          {/* <p className="mx-4">Or</p>
-          <Button
-            onClick={async () => {
-              setSignupModal(true);
-            }}
-            title="User Signup"
-          /> */}
         </div>
       </div>
 

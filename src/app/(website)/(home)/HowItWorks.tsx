@@ -4,6 +4,7 @@ import features from "@/utils/data/features.json";
 import Button from "@/app/components/ui/Button";
 import { Meteors } from "@/app/components/ui/meteors";
 import { CardBody, CardContainer, CardItem } from "@/app/components/ui/3d-card";
+import links from "@/utils/data/links.json";
 
 function HowItWorks() {
   return (
@@ -53,10 +54,7 @@ function HowItWorks() {
       <div className="mt-6 mb-6 max-w-max mx-auto">
         <Button
           onClick={() => {
-            window.scrollTo({
-              top: 0,
-              behavior: "smooth",
-            });
+            window.open("mailto:" + links.gmail, "_black");
           }}
           title="Contact Me"
         />
