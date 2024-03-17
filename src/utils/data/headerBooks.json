@@ -1,0 +1,478 @@
+{
+    "items": [
+      {
+        "kind": "books#volume",
+        "id": "_KBaDwAAQBAJ",
+        "etag": "E9/4VCygZmA",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/_KBaDwAAQBAJ",
+        "volumeInfo": {
+          "title": "How to Win Friends and Influence People",
+          "authors": [
+            "Dale Carnegie"
+          ],
+          "publisher": "Manjul Publishing",
+          "publishedDate": "2017",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9788183227896"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "8183227899"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 300,
+          "printType": "BOOK",
+          "categories": [
+            "Self-Help"
+          ],
+          "averageRating": 4.5,
+          "ratingsCount": 14,
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "2.1.2.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=_KBaDwAAQBAJ&printsec=frontcover&img=1&zoom=4&edge=curl&source=gbs_api",
+            "thumbnail": "https://books.google.com/books/content?id=_KBaDwAAQBAJ&printsec=frontcover&img=1&zoom=4&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.co.in/books?id=_KBaDwAAQBAJ&printsec=frontcover&dq=top+10+motivational+books&hl=&cd=1&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=_KBaDwAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=_KBaDwAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "IN",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 57.82,
+            "currencyCode": "INR"
+          },
+          "retailPrice": {
+            "amount": 57.82,
+            "currencyCode": "INR"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=_KBaDwAAQBAJ&rdid=book-_KBaDwAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 57820000,
+                "currencyCode": "INR"
+              },
+              "retailPrice": {
+                "amountInMicros": 57820000,
+                "currencyCode": "INR"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "IN",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.in/books/download/How_to_Win_Friends_and_Influence_People-sample-epub.acsm?id=_KBaDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.in/books/download/How_to_Win_Friends_and_Influence_People-sample-pdf.acsm?id=_KBaDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=_KBaDwAAQBAJ&hl=&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "1EiJAwAAQBAJ",
+        "etag": "4oxrIx5cV8A",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/1EiJAwAAQBAJ",
+        "volumeInfo": {
+          "title": "Sapiens",
+          "subtitle": "THE MULTI-MILLION COPY BESTSELLER",
+          "authors": [
+            "Yuval Noah Harari"
+          ],
+          "publisher": "Random House",
+          "publishedDate": "2014-09-04",
+          "description": "'Interesting and provocative... It gives you a sense of how briefly we've been on this Earth' Barack Obama What makes us brilliant? What makes us deadly? What makes us Sapiens? One of the world's preeminent historians and thinkers, Yuval Noah Harari challenges everything we know about being human. Earth is 4.5 billion years old. In just a fraction of that time, one species among countless others has conquered it: us. In this bold and provocative book, Yuval Noah Harari explores who we are, how we got here and where we're going. **ONE OF THE GUARDIAN'S 100 BEST BOOKS OF THE 21st CENTURY** PRAISE FOR SAPIENS: 'Jaw-dropping from the first word to the last... It may be the best book I've ever read' Chris Evans 'Startling... It changes the way you look at the world' Simon Mayo 'I would recommend Sapiens to anyone who's interested in the history and future of our species' Bill Gates",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781448190690"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "144819069X"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": false
+          },
+          "pageCount": 353,
+          "printType": "BOOK",
+          "categories": [
+            "History"
+          ],
+          "averageRating": 4.5,
+          "ratingsCount": 12,
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "2.30.28.0.preview.2",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=1EiJAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=1EiJAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.co.in/books?id=1EiJAwAAQBAJ&printsec=frontcover&dq=sepians&hl=&cd=1&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=1EiJAwAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=1EiJAwAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "IN",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 529.82,
+            "currencyCode": "INR"
+          },
+          "retailPrice": {
+            "amount": 264.91,
+            "currencyCode": "INR"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=1EiJAwAAQBAJ&rdid=book-1EiJAwAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 529820000,
+                "currencyCode": "INR"
+              },
+              "retailPrice": {
+                "amountInMicros": 264910000,
+                "currencyCode": "INR"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "IN",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.in/books/download/Sapiens-sample-epub.acsm?id=1EiJAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=1EiJAwAAQBAJ&hl=&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "It may be the best book I&#39;ve ever read&#39; Chris Evans &#39;Startling... It changes the way you look at the world&#39; Simon Mayo &#39;I would recommend Sapiens to anyone who&#39;s interested in the history and future of our species&#39; Bill Gates"
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "M22fAwAAQBAJ",
+        "etag": "RRWgiapPBHY",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/M22fAwAAQBAJ",
+        "volumeInfo": {
+          "title": "Zero to One",
+          "subtitle": "Notes on Start Ups, or How to Build the Future",
+          "authors": [
+            "Blake Masters",
+            "Peter Thiel"
+          ],
+          "publisher": "Random House",
+          "publishedDate": "2014-09-18",
+          "description": "WHAT VALUABLE COMPANY IS NOBODY BUILDING? The next Bill Gates will not build an operating system. The next Larry Page or Sergey Brin won’t make a search engine. If you are copying these guys, you aren’t learning from them. It’s easier to copy a model than to make something new: doing what we already know how to do takes the world from 1 to n, adding more of something familiar. Every new creation goes from 0 to 1. This book is about how to get there. ‘Peter Thiel has built multiple breakthrough companies, and Zero to One shows how.’ ELON MUSK, CEO of SpaceX and Tesla ‘This book delivers completely new and refreshing ideas on how to create value in the world.’ MARK ZUCKERBERG, CEO of Facebook ‘When a risk taker writes a book, read it. In the case of Peter Thiel, read it twice. Or, to be safe, three times. This is a classic.’ NASSIM NICHOLAS TALEB, author of The Black Swan",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9780753550304"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "075355030X"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": false
+          },
+          "pageCount": 148,
+          "printType": "BOOK",
+          "categories": [
+            "Business & Economics"
+          ],
+          "averageRating": 4.5,
+          "ratingsCount": 5,
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "2.8.10.0.preview.2",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=M22fAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=M22fAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.co.in/books?id=M22fAwAAQBAJ&printsec=frontcover&dq=top+100+startup+books&hl=&cd=8&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=M22fAwAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=M22fAwAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "IN",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 565.46,
+            "currencyCode": "INR"
+          },
+          "retailPrice": {
+            "amount": 282.73,
+            "currencyCode": "INR"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=M22fAwAAQBAJ&rdid=book-M22fAwAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 565460000,
+                "currencyCode": "INR"
+              },
+              "retailPrice": {
+                "amountInMicros": 282730000,
+                "currencyCode": "INR"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "IN",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,    
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.in/books/download/Zero_to_One-sample-epub.acsm?id=M22fAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=M22fAwAAQBAJ&hl=&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "This book is about how to get there. ‘Peter Thiel has built multiple breakthrough companies, and Zero to One shows how.’ ELON MUSK, CEO of SpaceX and Tesla ‘This book delivers completely new and refreshing ideas on how to create value ..."
+        }
+      },
+    
+ 
+   
+    
+      {
+        "kind": "books#volume",
+        "id": "Jrx6EAAAQBAJ",
+        "etag": "Yp/7AebBNuk",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/Jrx6EAAAQBAJ",
+        "volumeInfo": {
+          "title": "Atomic Habits",
+          "authors": [
+            "James Clear"
+          ],
+          "publisher": "Editura Trei SRL",
+          "publishedDate": "2022",
+          "description": "O cale ușoară și eficientă de a-ți forma obiceiuri bune și a scăpa de cele proaste Schimbări mici, rezultate remarcabile „O carte extrem de practică și utilă. James Clear extrage informațiile fundamentale despre formarea obiceiurilor, astfel ca tu să poți realiza mai mult concentrându-te pe mai puține lucruri.\" – Mark Manson, autorul bestsellerului Arta subtilă a nepăsării „James Clear a petrecut ani de zile perfecționând arta și studiind știința obiceiurilor. Această carte antrenantă și practică este ghidul de care ai nevoie ca să scapi de deprinderile proaste și să-ți formezi unele bune.\" – Adam Grant, autorul bestsellerurilor Originalii și Option B. Inspirându-se din cele mai noi descoperiri din biologie, psihologie și neuroștiințe, James Clear a conceput un ghid ușor de asimilat, cu ajutorul căruia obiceiurile bune devin inevitabile, iar cele rele, imposibile. Învață: * să-ți construiești un sistem pentru a deveni cu 1% mai bun în fiecare zi; * să renunți la obiceiurile rele și să le păstrezi pe cele bune; * să eviți greșelile comise în general de cei care încearcă să-și schimbe obiceiurile; * să depășești lipsa de motivație și de voință; * să-ți dezvolți o identitate mai puternică și să crezi în tine însuți; * să-ți faci timp pentru noile obiceiuri (chiar și când viața o ia razna); * să-ți concepi un mediu care să favorizeze succesul; * să faci schimbări mici, ușoare, care oferă rezultate mari; * să-ți revii atunci când te abați de la drum; * și, cel mai important, cum să aplici aceste idei în viața reală… … și multe altele Indiferent dacă e vorba de o echipă care încearcă să câștige un campionat, o organizație care speră să redefinească o industrie sau pur și simplu un om care vrea să se lase de fumat, să slăbească, să reducă stresul ori să realizeze orice alt obiectiv, Atomic Habits este soluția. „Nu mă consider un expert și nu dețin toate răspunsurile, dar sunt fericit să împărtășesc ceea ce am învățat până acum.\" – James Clear „O carte deosebită, care îți va schimba felul în care îți organizezi ziua și îți trăiești viața.\" – Ryan Holiday, autorul bestsellerurilor The Obstacle is the Way și Ego is the Enemy „În Atomic Habits, Clear îți va arăta cum să depășești lipsa de motivație, cum să schimbi mediul înconjurător ca să încurajezi succesul și cum să-ți faci timp pentru obiceiuri noi și mai bune.\" – Glamour.com",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9786067892888"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "606789288X"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 157,
+          "printType": "BOOK",
+          "categories": [
+            "Self-Help"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "0.2.2.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=Jrx6EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "https://books.google.com/books/content?id=Jrx6EAAAQBAJ&printsec=frontcover&img=1&zoom=4&edge=curl&source=gbs_api"
+          },
+          "language": "ro",
+          "previewLink": "http://books.google.co.in/books?id=Jrx6EAAAQBAJ&printsec=frontcover&dq=top+10+motivational+books&hl=&cd=8&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=Jrx6EAAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Jrx6EAAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "IN",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 1214.84,
+            "currencyCode": "INR"
+          },
+          "retailPrice": {
+            "amount": 607.42,
+            "currencyCode": "INR"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=Jrx6EAAAQBAJ&rdid=book-Jrx6EAAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 1214840000,
+                "currencyCode": "INR"
+              },
+              "retailPrice": {
+                "amountInMicros": 607420000,
+                "currencyCode": "INR"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "IN",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.in/books/download/Atomic_Habits-sample-epub.acsm?id=Jrx6EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.in/books/download/Atomic_Habits-sample-pdf.acsm?id=Jrx6EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=Jrx6EAAAQBAJ&hl=&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Această carte antrenantă și practică este ghidul de care ai nevoie ca să scapi de deprinderile proaste și să-ți formezi unele bune.&quot; – Adam Grant, autorul bestsellerurilor Originalii și Option B. Inspirându-se din cele mai noi ..."
+        }
+      },
+
+      {
+        "kind": "books#volume",
+        "id": "2YeBy-RlgkQC",
+        "etag": "F313qlTzLJY",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/2YeBy-RlgkQC",
+        "volumeInfo": {
+          "title": "The $100 Startup",
+          "subtitle": "Reinvent the Way You Make a Living, Do What You Love, and Create a New Future",
+          "authors": [
+            "Chris Guillebeau"
+          ],
+          "publisher": "Currency",
+          "publishedDate": "2012-05-08",
+          "description": "Lead a life of adventure, meaning and purpose—and earn a good living. “Thoughtful, funny, and compulsively readable, this guide shows how ordinary people can build solid livings, with independence and purpose, on their own terms.”—Gretchen Rubin, author of the #1 New York Times bestseller The Happiness Project Still in his early thirties, Chris Guillebeau completed a tour of every country on earth and yet he’s never held a “real job” or earned a regular paycheck. Rather, he has a special genius for turning ideas into income, and he uses what he earns both to support his life of adventure and to give back. Chris identified 1,500 individuals who have built businesses earning $50,000 or more from a modest investment (in many cases, $100 or less), and focused on the 50 most intriguing case studies. In nearly all cases, people with no special skills discovered aspects of their personal passions that could be monetized, and were able to restructure their lives in ways that gave them greater freedom and fulfillment. Here, finally, distilled into one easy-to-use guide, are the most valuable lessons from those who’ve learned how to turn what they do into a gateway to self-fulfillment. It’s all about finding the intersection between your “expertise”—even if you don’t consider it such—and what other people will pay for. You don’t need an MBA, a business plan or even employees. All you need is a product or service that springs from what you love to do anyway, people willing to pay, and a way to get paid. Not content to talk in generalities, Chris tells you exactly how many dollars his group of unexpected entrepreneurs required to get their projects up and running; what these individuals did in the first weeks and months to generate significant cash; some of the key mistakes they made along the way, and the crucial insights that made the business stick. Among Chris’s key principles: If you’re good at one thing, you’re probably good at something else; never teach a man to fish—sell him the fish instead; and in the battle between planning and action, action wins. In ancient times, people who were dissatisfied with their lives dreamed of finding magic lamps, buried treasure, or streets paved with gold. Today, we know that it’s up to us to change our lives. And the best part is, if we change our own life, we can help others change theirs. This remarkable book will start you on your way.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9780307951526"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "0307951529"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 306,
+          "printType": "BOOK",
+          "categories": [
+            "Business & Economics"
+          ],
+          "averageRating": 5,
+          "ratingsCount": 1,
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.7.1.0.preview.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "https://books.google.com/books/content?id=2YeBy-RlgkQC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "https://books.google.com/books/content?id=2YeBy-RlgkQC&printsec=frontcover&img=1&zoom=4&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.co.in/books?id=2YeBy-RlgkQC&dq=top+10+startup+books&hl=&cd=10&source=gbs_api",
+          "infoLink": "http://books.google.co.in/books?id=2YeBy-RlgkQC&dq=top+10+startup+books&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/The_100_Startup.html?hl=&id=2YeBy-RlgkQC"
+        },
+        "saleInfo": {
+          "country": "IN",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "IN",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": true
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=2YeBy-RlgkQC&hl=&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Lead a life of adventure, meaning and purpose—and earn a good living. “Thoughtful, funny, and compulsively readable, this guide shows how ordinary people can build solid livings, with independence and purpose, on their own terms ..."
+        }
+      }
+     
+
+    ]
+  }
